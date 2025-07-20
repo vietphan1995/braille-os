@@ -12,5 +12,7 @@ BrailleOS supports rule which helps blinder navigate, browse media world, by com
 
 In climate change, BrailleOS helps recycle paper for blinder work, creates more safe and meaning life for blinder.
 
+![image.png](image.png)
+
 ### Notes
 https://six-zinc-ad4.notion.site/BrailleOS-1b25e832d6ee800faa95e4312649c180
