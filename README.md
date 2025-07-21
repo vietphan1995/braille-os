@@ -6,7 +6,7 @@
 
 BrailleOS is an operating system that helps translate to braille language from other language and in reverse by best experience, specific at blind, visual impairment customers.
 
-BrailleOS supports importing and exporting file for storing, sharing, printing.
+BrailleOS supports editing, importing and exporting file for storing, sharing, printing braille language.
 
 BrailleOS supports rule which helps blinder navigate, browse media world, by combine with other communication methods of device like sound, BrailleKeyboard, voice, notification, also helps you interact with computer in low light condition environment.
 
