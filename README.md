@@ -14,5 +14,7 @@ In climate change, BrailleOS helps recycle paper for blinder work, creates more 
 
 ![image.png](image.png)
 
+[back to projects …](https://github.com/vietphan1995/projects)
+
 ### Notes
 https://six-zinc-ad4.notion.site/BrailleOS-1b25e832d6ee800faa95e4312649c180
