@@ -1,6 +1,8 @@
-# BrailleOS
+# braille-os
 
-# Introduction
+## BrailleOS
+
+### Introduction
 
 [https://github.com/vietphan1995/braille-os.git](https://github.com/vietphan1995/braille-os.git)
 
@@ -14,7 +16,7 @@ In climate change, BrailleOS helps recycle paper for blinder work, creates more 
 
 ![image.png](image.png)
 
-[back to projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/BrailleOS-1b25e832d6ee800faa95e4312649c180
+https://phantrungviet.notion.site/braille-os-1b25e832d6ee800faa95e4312649c180
