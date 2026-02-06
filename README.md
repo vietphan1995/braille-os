@@ -23,4 +23,4 @@ In climate change, BrailleOS helps recycle paper for blinder work, creates more 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/braille-os-1b25e832d6ee800faa95e4312649c180
+https://maianhcorporation.notion.site/braille-os-1b25e832d6ee800faa95e4312649c180
